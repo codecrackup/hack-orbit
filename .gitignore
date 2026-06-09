@@ -16,3 +16,7 @@ node_modules/
 
 # Mac
 .DS_Store
+
+# Logs
+server.log
+*.log
